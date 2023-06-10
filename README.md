@@ -33,13 +33,14 @@ The following tools were used in this project:
 
 ## :memo: License ##
 
-This project is under license from MIT. For more details, see the [LICENSE](LICENSE) file.
+This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
 
 Made with :heart: by 
 
 - <a href="https://github.com/alesteka" target="_blank">Ales Tekavcic</a>
-- <a href="https://github.com" target="_blank">Francis Muwalo</a>
+- <a href="https://github.com/muwalofra" target="_blank">Francis Muwalo</a>
 - <a href="https://github.com/nkosi-tauro" target="_blank">Nkosilathi Tauro</a>
-- <a href="https://github.com" target="_blank">Abdulahi Alihu Ngamjeh</a>
+- <a href="https://github.com/alihu12345" target="_blank">Abdulahi Alihu Ngamjeh</a>
+
 
