@@ -19,8 +19,7 @@ Welcome to the {Team name} repository, this repo will contain projects related t
 
 ## :dart: Projects ##
 
-<!-- - [Design Document](https://github.com) -->
-- Design Document (_Coming Soon_)
+- [Design Proposal](https://github.com/alesteka/SSD/tree/main/designProposal)
 - Coding Output (_Coming Soon_)
 
 ## :rocket: Technologies ##
